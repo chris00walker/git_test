@@ -1,6 +1,7 @@
 Hey Chris!
 
-This is just a short message to welcome you and to applaud your efforts to learn how to code.
+This is just a short message to welcome you and to applaud your efforts to learn how to
+code. And now this also applies to Matthew.
 
 Remember the fundamental principle: Consistency beats intensity. It is far better to train and practice a little everyday versus alot on only one day.
 
