@@ -4,6 +4,10 @@ My name is Christopher Walker and I am teaching myself to code web pages and pro
 
 This is going to be a long journey - a very long journey! 
 
-But I am up to the challenge an excited to proceed.
+But I am up to the challenge an am excited to proceed.
+
+I have chosen to do a Bootcamp on Udemy as well as The Odin Project.
+
+My chosen programming language is Python
 
 Wishing myself great success.
